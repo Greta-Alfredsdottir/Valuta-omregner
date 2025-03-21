@@ -7,3 +7,4 @@ hvis du vil have navnet på din valuta med fra options i dit select tag, så und
  prøv evt. at consol logge mySelectElement.options, hvor mySelectElement er det select element du har fundet i din DOM med getElementById()
 
  */
+
