@@ -6,5 +6,5 @@
     resultatet skal vises i et dom element.
 
   Design er frit.
-
+https://greta-alfredsdottir.github.io/Valuta-omregner/
   
